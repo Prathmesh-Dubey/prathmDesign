@@ -1,0 +1,114 @@
+# Photo credits
+
+All photos are from Unsplash, downloaded via Picsum (scene photos) and the Unsplash CDN (product photos), and used under the Unsplash License.
+
+## Scene photos (images/photos)
+
+- p16: Paul Jarvis (https://unsplash.com/photos/gkT4FfgHO5o)
+- p24: Alejandro Escamilla (https://unsplash.com/photos/cZhUxIQjILg)
+- p48: Luke Chesser (https://unsplash.com/photos/1uxV8fAfhVM)
+- p56: Sebastian Muller (https://unsplash.com/photos/VLdaxYyXJvw)
+- p64: Alexander Shustov (https://unsplash.com/photos/AHBiSKaENwc)
+- p89: Vectorbeast (https://unsplash.com/photos/rsJtMXn3p_c)
+- p158: Daniel Robert (https://unsplash.com/photos/MRxD-J9-4ps)
+- p174: Linh Nguyen (https://unsplash.com/photos/YYegjUYIVeg)
+- p182: Andrea Boldizsar (https://unsplash.com/photos/BwgKUh9tN84)
+- p225: Vee O (https://unsplash.com/photos/hGO27G5tZJ8)
+- p234: Laura Liberal (https://unsplash.com/photos/_py5wlZTI2c)
+- p242: Martin Wessely (https://unsplash.com/photos/LQiXb7dA4Dk)
+- p287: Aleksandra Boguslawska (https://unsplash.com/photos/c54ZhWDLEDo)
+- p295: Olivia Henry (https://unsplash.com/photos/-_rYK0egLWE)
+- p348: Anna Dziubinska (https://unsplash.com/photos/mVhd5QVlDWw)
+- p381: Nick West (https://unsplash.com/photos/4M-5WBrG5-c)
+- p398: Oscar Nilsson (https://unsplash.com/photos/2aWEwBGSqR8)
+- p406: Roland Batke-Mutschler (https://unsplash.com/photos/SmhN4FejPFs)
+- p424: Stephy Pariande (https://unsplash.com/photos/nDqA4d5NL0k)
+- p441: David Marcu (https://unsplash.com/photos/JZXAr--Qdf4)
+- p493: Jeffrey Deng (https://unsplash.com/photos/h6t2dbYgDuc)
+- p509: Jeff Sheldon (https://unsplash.com/photos/SdSc4sWVMRU)
+- p517: Brian Jimenez (https://unsplash.com/photos/ch-mPpglKjQ)
+- p525: Luca Zanon (https://unsplash.com/photos/aViOQZzikVs)
+- p550: Christopher Sardegna (https://unsplash.com/photos/CMOa3H1SXG0)
+- p575: Alberto Restifo (https://unsplash.com/photos/Ni4NgA64TFQ)
+- p659: Alexander Dimitrov (https://unsplash.com/photos/KGy1GFeKBu4)
+- p676: Drew Patrick Miller (https://unsplash.com/photos/B7mIW-x3g9s)
+- p692: Nicolai Berntsen (https://unsplash.com/photos/2Qm47LI0W1c)
+- p701: Shannon Richards (https://unsplash.com/photos/jJzmexjwfGE)
+- p737: Anthony Indraus (https://unsplash.com/photos/v4ZUGlrdVAA)
+- p755: Padurariu Alexandru (https://unsplash.com/photos/k0SwnevO_wk)
+- p835: Olenka Kotyk (https://unsplash.com/photos/eqsEZNCm4-c)
+- p870: Joshua Hibbert (https://unsplash.com/photos/Pn6iimgM-wo)
+- p940: Annie Spratt (https://unsplash.com/photos/8mqOw4DBBSg)
+- p948: Mihail Ribkin (https://unsplash.com/photos/VjmlDjePHjE)
+
+## Product photos (images/products)
+
+Unsplash CDN ids (https://images.unsplash.com/<id>):
+
+- photo-1523275335684-37898b6baf30
+- photo-1546868871-7041f2a55e12
+- photo-1524805444758-089113d48a6d
+- photo-1505740420928-5e560c06d30e
+- photo-1583394838336-acd977736f90
+- photo-1606107557195-0e29a4b5b4aa
+- photo-1491553895911-0055eca6402d
+- photo-1600185365483-26d7a4cc7519
+- photo-1560343090-f0409e92791a
+- photo-1526170375885-4d8ecf77b99f
+- photo-1572635196237-14b3f281503f
+- photo-1585386959984-a4155224a1ad
+- photo-1541643600914-78b084683601
+- photo-1594035910387-fea47794261f
+- photo-1556228578-8c89e6adf883
+- photo-1620916566398-39f1143ab7be
+- photo-1586023492125-27b2c045efd7
+- photo-1555041469-a586c61ea9bc
+- photo-1503602642458-232111445657
+- photo-1517336714731-489689fd1ca8
+- photo-1511707171634-5f897ff02aa9
+- photo-1608043152269-423dbba4e7e1
+- photo-1531123897727-8f129e1688ce
+- photo-1507003211169-0a1dd7228f2d
+- photo-1438761681033-6461ffad8d80
+- photo-1500648767791-00dcc994a43e
+- photo-1487958449943-2429e8be8625
+- photo-1600585154340-be6161a56a0c
+- photo-1600607687939-ce8a6c25118c
+- photo-1486406146926-c627a92ad1ab
+- photo-1502672260266-1c1ef2d93688
+- photo-1522708323590-d24dbb6b0267
+- photo-1511818966892-d7d671e672a2
+- photo-1512621776951-a57141f2eefd
+- photo-1567620905732-2d1ec7ab7445
+- photo-1565299624946-b28f40a0ae38
+- photo-1546069901-ba9599a7e63c
+- photo-1518611012118-696072aa579a
+- photo-1534438327276-14e5300c3a48
+- photo-1549719386-74dfcbf7dbed
+- photo-1544367567-0f2fcb009e0b
+- photo-1517836357463-d25dfeac3438
+- photo-1505142468610-359e7d316be0
+- photo-1507525428034-b723cf961d3e
+- photo-1455729552865-3658a5d39692
+- photo-1502680390469-be75c86b636f
+- photo-1485955900006-10f4d324d411
+- photo-1463936575829-25148e1db1b8
+- photo-1416879595882-3373a0480b5b
+- photo-1459411552884-841db9b3cc2a
+- photo-1501004318641-b39e6451bec6
+- photo-1564013799919-ab600027ffc6
+- photo-1512917774080-9991f1c4c750
+- photo-1600596542815-ffad4c1539a9
+- photo-1566073771259-6a8506099945
+- photo-1582719478250-c89cae4dc85b
+- photo-1542314831-068cd1dbfeeb
+- photo-1520250497591-112f2f40a3f4
+- photo-1506905925346-21bda4d32df4
+- photo-1493976040374-85c8e12f0c0e
+- photo-1516483638261-f4dbaf036963
+- photo-1470071459604-3b5ec3a7fe05
+- photo-1570077188670-e3a8d69ac5ff
+- photo-1501785888041-af3ef285b470
+- photo-1560448204-e02f11c3d0e2
+- photo-1544005313-94ddf0286df2
+- photo-1506794778202-cad84cf45f1d
