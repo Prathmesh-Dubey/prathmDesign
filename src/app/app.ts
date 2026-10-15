@@ -12,11 +12,7 @@ import { CATEGORIES } from './core/categories';
     <header class="bar">
       <div class="bar-inner">
         <a routerLink="/" class="brand" (click)="menu.set(false)">
-          <span class="mark" aria-hidden="true">
-            @for (c of categories; track c.key) {
-              <i [style.background]="c.swatch"></i>
-            }
-          </span>
+          <img class="mark" src="android-chrome-192x192.png" width="36" height="36" alt="">
           Swatchbook
         </a>
         <button type="button" class="menu-btn" (click)="menu.set(!menu())" [attr.aria-expanded]="menu()" aria-controls="primary-nav">
@@ -38,7 +34,7 @@ import { CATEGORIES } from './core/categories';
 
     <footer class="foot">
       <div class="foot-inner">
-        <p class="foot-brand">Swatchbook</p>
+        <p class="foot-brand"><img src="android-chrome-192x192.png" width="28" height="28" alt="">Swatchbook</p>
         <p>Every pattern here is a live Angular component with a prompt you can paste into any AI builder. Photos by Unsplash photographers, stored with the project (credits in images/CREDITS.md).</p>
       </div>
     </footer>
@@ -58,10 +54,7 @@ import { CATEGORIES } from './core/categories';
       font-family: var(--font-display); font-weight: 700; font-size: 21px; letter-spacing: -0.02em;
       font-variation-settings: 'wdth' 85;
     }
-    .mark { display: inline-flex; }
-    .mark i { width: 9px; height: 22px; border-radius: 3px; margin-right: -2px; box-shadow: 0 0 0 1.5px var(--paper); }
-    .mark i:nth-child(odd) { transform: rotate(-8deg); }
-    .mark i:nth-child(even) { transform: rotate(6deg); }
+    .mark { width: 36px; height: 36px; display: block; border-radius: 9px; }
     .nav { margin-left: auto; display: flex; gap: 4px; }
     .nav a {
       display: inline-flex; align-items: center; gap: 8px; height: 36px; padding: 0 13px; border-radius: 999px;
@@ -74,7 +67,8 @@ import { CATEGORIES } from './core/categories';
 
     .foot { border-top: 1px solid var(--line-soft); }
     .foot-inner { max-width: var(--page-max); margin: 0 auto; padding: 36px var(--gutter) 48px; display: grid; grid-template-columns: auto 1fr; gap: 24px; color: var(--muted); font-size: 14px; }
-    .foot-brand { font-family: var(--font-display); font-weight: 700; color: var(--ink); font-size: 17px; }
+    .foot-brand { font-family: var(--font-display); font-weight: 700; color: var(--ink); font-size: 17px; display: inline-flex; align-items: center; gap: 10px; }
+    .foot-brand img { border-radius: 7px; }
     .foot p:last-child { max-width: 70ch; }
 
     @media (max-width: 860px) {
